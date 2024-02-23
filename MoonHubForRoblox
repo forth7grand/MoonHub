@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("MoonHub", "Synapse")
-local Tab = Window:NewTab("Bedwars")
+local Tab = Window:NewTab("Bedwa")
 Section:BedwarsButton("ButtonText", "ButtonInfo", function()
     print("Clicked")
 end)
